@@ -3,8 +3,7 @@ python:alpine3.19
 redis
 mysql
 rabbitmq
-dotnet
-dotnet-sdk
+bitnami/dotnet-sdk
 kong/kubernetes-ingress-controller
 elasticsearch
 consul
