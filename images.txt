@@ -1,2 +1,14 @@
 nginx
 python:alpine3.19
+redis
+mysql
+rabbitmq
+dotnet
+dotnet-sdk
+kong/kubernetes-ingress-controller
+elasticsearch
+consul
+kong
+nacos/nacos-server
+linux
+ubuntu
