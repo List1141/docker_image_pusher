@@ -1,10 +1,20 @@
 nginx
 python:alpine3.19
 redis
+bitnami/redis-cluster
 mysql
 rabbitmq
 bitnami/dotnet-sdk
 kong/kubernetes-ingress-controller
+postgres
+mongo
+bitnami/kafka
+ubuntu/kafka
+zookeeper
+bitnami/zookeeper
+bitnami/apache
+httpd
+tomcat
 consul
 kong
 nacos/nacos-server
@@ -15,3 +25,4 @@ debian
 kibana
 bitnami/elasticsearch
 elasticsearch
+
