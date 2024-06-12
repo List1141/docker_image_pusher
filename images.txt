@@ -11,5 +11,7 @@ nacos/nacos-server
 centos
 alpine
 ubuntu
-debian   
+debian
+kibana
+bitnami/elasticsearch
 elasticsearch
