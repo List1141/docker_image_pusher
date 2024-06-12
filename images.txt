@@ -5,9 +5,11 @@ mysql
 rabbitmq
 bitnami/dotnet-sdk
 kong/kubernetes-ingress-controller
-elasticsearch
+Elasticsearch
 consul
 kong
 nacos/nacos-server
-linux
+centos
+alpine
 ubuntu
+debian   
