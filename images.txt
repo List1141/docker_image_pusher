@@ -17,6 +17,7 @@ centos
 alpine
 ubuntu
 debian
+elasticsearch
 bitnami/redis-cluster
 bitnami/elasticsearch 
 bitnami/consul
