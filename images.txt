@@ -25,11 +25,11 @@ bitnami/kibana
 bitnami/dotnet-sdk
 bitnami/zookeeper
 bitnami/apache
+openjdk:8
+openjdk:1.8
 node
 gitlab
 gitlab-ce
 pgadmin
 portainer
 portainer-ce
-openjdk:8
-openjdk:1.8
