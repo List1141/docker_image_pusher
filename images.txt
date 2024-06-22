@@ -27,3 +27,4 @@ bitnami/apache
 node
 gitlab
 pgadmin
+portainer
