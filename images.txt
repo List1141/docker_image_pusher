@@ -1,3 +1,5 @@
+bitnami/consul
+bitnami/kibana
 nginx
 python:alpine3.19
 redis
@@ -21,7 +23,5 @@ centos
 alpine
 ubuntu
 debian
-bitnami/consul
-bitnami/kibana
 bitnami/elasticsearch 
 
