@@ -26,5 +26,7 @@ bitnami/zookeeper
 bitnami/apache
 node
 gitlab
+gitlab-ce
 pgadmin
 portainer
+portainer-ce
