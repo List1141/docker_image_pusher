@@ -31,3 +31,4 @@ gitlab-ce
 pgadmin
 portainer
 portainer-ce
+openjdk:8
