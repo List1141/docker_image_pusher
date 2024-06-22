@@ -21,8 +21,8 @@ centos
 alpine
 ubuntu
 debian
-kibana
 bitnami/elasticsearch
 elasticsearch
 consul
+kibana
 
