@@ -32,3 +32,4 @@ pgadmin
 portainer
 portainer-ce
 openjdk:8
+openjdk:1.8
