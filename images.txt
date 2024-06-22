@@ -25,8 +25,7 @@ bitnami/kibana
 bitnami/dotnet-sdk
 bitnami/zookeeper
 bitnami/apache
-openjdk:8
-openjdk:1.8
+openjdk
 node
 gitlab
 gitlab-ce
