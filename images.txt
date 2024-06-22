@@ -15,7 +15,6 @@ bitnami/zookeeper
 bitnami/apache
 httpd
 tomcat
-consul
 kong
 nacos/nacos-server
 centos
@@ -25,4 +24,5 @@ debian
 kibana
 bitnami/elasticsearch
 elasticsearch
+consul
 
