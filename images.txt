@@ -21,8 +21,7 @@ centos
 alpine
 ubuntu
 debian
-bitnami/elasticsearch
-elasticsearch
-consul
-kibana
+bitnami/consul
+bitnami/kibana
+bitnami/elasticsearch 
 
